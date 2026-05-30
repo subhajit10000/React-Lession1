@@ -41,7 +41,7 @@ function Content() {
       >
         Master the Full-Stack Development
       </h2>
-
+      
       {/* Button with Hover Effect */}
       <button
         // 2. Add event listeners to toggle the hover state
@@ -68,6 +68,7 @@ function Content() {
           // 5. Add a smooth transition time so it doesn't snap abruptly
           transition: "all 0.2s ease-in-out",
         }}
+        
       >
         Enroll Now
       </button>
